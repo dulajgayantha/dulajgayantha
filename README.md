@@ -15,7 +15,6 @@ My passion lies at the dynamic intersection of logical code and compelling desig
 ### 👨‍💻 About Me:
 
 - 🎓 I'm currently pursuing a **Bachelor's in Information Technology** with a focus on Software Engineering.
-- 🔭 I’m currently leading a team to build a **Doctor Appointment System** using the MERN stack.
 - 🌱 I’m deepening my knowledge in **advanced MERN concepts** and **production-level AI workflows**.
 - 🤝 I’m looking to collaborate on **open-source projects** that merge technology and creative design.
 - 📫 You can reach me via my **[LinkedIn Profile](https://www.linkedin.com/in/dulaj-gayantha-509ab61b5)**.
